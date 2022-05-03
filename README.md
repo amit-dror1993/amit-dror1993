@@ -44,3 +44,9 @@ I am a Full Stack Developer from Israel 🇮🇱 .
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amit-dror1993&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dror1993&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Linkedin Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
