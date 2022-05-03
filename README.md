@@ -39,11 +39,11 @@ I am a Full Stack Developer based in Israel 🇮🇱 .
 ---
 
 ### :fire: My Stats :
-<a href="http://www.github.com/amit-dror1993"><img src="https://github-readme-stats.vercel.app/api?username=amit-dror1993&show_icons=true&hide=&count_private=true&theme=radical" alt="amit-dror1993's GitHub stats" /></a>
+<a href="http://www.github.com/amit-dror1993"><img src="https://github-readme-stats.vercel.app/api?username=amit-dror1993&show_icons=true&hide=&count_private=true&theme=prussian" alt="amit-dror1993's GitHub stats" /></a>
 
-<a href="http://www.github.com/amit-dror1993"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-dror1993&theme=radical" /></a>
+<a href="http://www.github.com/amit-dror1993"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-dror1993&theme=prussian" /></a>
 
-<a href="https://github.com/amit-dror1993" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dror1993&theme=radical" alt="Top Languages" /></a>
+<a href="https://github.com/amit-dror1993" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dror1993&theme=prussian" alt="Top Languages" /></a>
 
 
 ---
