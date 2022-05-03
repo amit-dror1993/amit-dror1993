@@ -46,7 +46,3 @@ I am a Full Stack Developer from Israel 🇮🇱 .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dror1993&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :writing_hand: Linkedin Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
